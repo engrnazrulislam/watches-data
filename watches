@@ -1,0 +1,52 @@
+[
+    {
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 8000,
+      "case_material": "Stainless Steel",
+      "movement": "Automatic",
+      "water_resistance": 300,
+      "dial_color": "Black",
+      "strap_material": "Oystersteel"
+    },
+    {
+      "brand": "Omega",
+      "model": "Speedmaster Professional",
+      "price": 5000,
+      "case_material": "Stainless Steel",
+      "movement": "Manual",
+      "water_resistance": 50,
+      "dial_color": "Black",
+      "strap_material": "Leather"
+    },
+    {
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "price": 3000,
+      "case_material": "Titanium",
+      "movement": "Automatic",
+      "water_resistance": 100,
+      "dial_color": "Blue",
+      "strap_material": "Rubber"
+    },
+    {
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "price": 30000,
+      "case_material": "Rose Gold",
+      "movement": "Automatic",
+      "water_resistance": 120,
+      "dial_color": "Grey",
+      "strap_material": "Alligator Leather"
+    },
+    {
+      "brand": "Audemars Piguet",
+      "model": "Royal Oak",
+      "price": 25000,
+      "case_material": "Titanium",
+      "movement": "Automatic",
+      "water_resistance": 50,
+      "dial_color": "Blue",
+      "strap_material": "Rubber"
+    }
+  ]
